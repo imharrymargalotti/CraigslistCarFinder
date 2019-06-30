@@ -17,3 +17,6 @@ Grabbing the Kelley Blue Book value of the vehicle
 Using the KBB value to make an equation to score the vehicles. 
 Potententially using ML to score the vehicles based on other used car sales history.
 Writing out all of this data to a sqllite table
+
+Any donations would be appreciated but not required. I will keep working hard on this and try for a release in about a week
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7WHKMKAJNTYAL&currency_code=USD&source=url
